@@ -1,0 +1,13 @@
+{
+  "name": "buzzwords",
+  "version": "1.0.0",
+  "description": "Check out what words were used the most in Product Hunt product descriptions at any given day",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Bougakov",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.6.0"
+  }
+}
